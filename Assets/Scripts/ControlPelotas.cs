@@ -15,9 +15,9 @@ public class ControlPelotas : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.getKeyDown(KeyCode.BackSpace))
-        {
-           Instantiate(pelotas, posicionInical);
-        }
+        // if(Input.getKeyDown(KeyCode.BackSpace))
+        // {
+        //    Instantiate(pelotas, posicionInical);
+        // }
     }
 }
